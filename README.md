@@ -16,6 +16,8 @@ Throughout the training process, techniques such as dropout regularization and e
 4) LSTM Model: Sequential learning with a Long Short-Term Memory network.
 5) Prediction Output: The trained model predicts the next word in a sequence.
 
+![image](https://github.com/user-attachments/assets/0a3a57b3-7c1a-4ec9-a9f5-76cb010f7dec)
+
 # LSTM Architecture for Next Word Prediction
 1) Input Layer: A sequence of words is fed into the model.
 2) Embedding Layer: Words are converted into dense vectors (embeddings) that represent their semantic meaning.
@@ -23,4 +25,44 @@ Throughout the training process, techniques such as dropout regularization and e
 4) Output Layer: The model predicts the next word in the sequence based on the learned patterns.
 
 In practical applications, this model mimics the behavior of predictive text systems in smartphones and other applications. Google’s search engine, for instance, makes use of a similar approach, drawing on a user’s browsing history and previous search inputs to predict the next word more accurately. The implementation is done in Python, and the results demonstrate the effectiveness of deep learning models, particularly LSTMs, in predicting the next word in a sequence.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+# Implementation 
+
+# Data Set Info
+Source : https://www.gutenberg.org/
+         
+         The Adventures of Sherlock Holmes, by Arthur Conan Doyle 
+
+# Data Clean up & Processing
+    UTF-8 encoded “.txt” file of the novel is used.
+    Tokenize & create unique word dictionary.
+    Create n-gram.
+    Pad sequences to make them of same length.
+    Prepare features(n-gram) against label.
+    Convert output array into suitable format for training
+    
+# ML Methodologies Used
+Recurrent Neural Network (RNN)
+
+    RNN model is built using Keras library.
+    The Sequential model is created which is a linear stack of layers in Keras.
+    Layers in the model
+      Embedding
+      LSTM
+      Dense
+   
+
+    
+    
+
+
+
+
+
+    
+
+
+
+
 
