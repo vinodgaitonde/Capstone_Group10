@@ -48,9 +48,39 @@ Recurrent Neural Network (RNN)
     RNN model is built using Keras library.
     The Sequential model is created which is a linear stack of layers in Keras.
     Layers in the model
-      Embedding
-      LSTM
-      Dense
+   ![image](https://github.com/user-attachments/assets/e8a48fbf-d132-4aaa-a0de-68fd31b50785)
+
+  ![image](https://github.com/user-attachments/assets/933f3091-b0e3-47a2-9501-2f16542427ac)
+
+# Docker Container
+  ![image](https://github.com/user-attachments/assets/9064a972-96fe-4258-b703-e33fc7cc8515)
+
+  ![image](https://github.com/user-attachments/assets/88837fc9-c9c6-4928-8824-b008011ca362)
+
+
+# Model Tuning
+
+![image](https://github.com/user-attachments/assets/af508aed-6aac-40cf-b1ba-6b37724990f7)
+
+# Predicted Words Sample
+
+![image](https://github.com/user-attachments/assets/e992382d-1f37-441a-bbbf-149bb8ca5cd8)
+
+# Conclusion
+
+![image](https://github.com/user-attachments/assets/cdcb4b76-67ea-4bc4-9ecd-72e2e778550e)
+
+# Link to Source Code & Docker
+
+
+# Future Enhancements
+![image](https://github.com/user-attachments/assets/f4a2a0a0-6e04-4847-9d07-f271012b709a)
+
+
+  
+
+
+
    
 
     
