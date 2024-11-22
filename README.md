@@ -52,25 +52,33 @@ Recurrent Neural Network (RNN)
 
   ![image](https://github.com/user-attachments/assets/933f3091-b0e3-47a2-9501-2f16542427ac)
 
-# Docker Container
-  ![image](https://github.com/user-attachments/assets/9064a972-96fe-4258-b703-e33fc7cc8515)
 
-  ![image](https://github.com/user-attachments/assets/88837fc9-c9c6-4928-8824-b008011ca362)
+# Docker Container
+  ![image](https://github.com/user-attachments/assets/70399a95-cfa6-40e5-84ae-cc982284ee41)
+
+  ![image](https://github.com/user-attachments/assets/2e7b346e-65ac-4bc4-9fda-9021319cd254)
+
+
 
 
 # Model Tuning
+![image](https://github.com/user-attachments/assets/15c0331f-0d46-498f-b22b-318281d31639)
 
-![image](https://github.com/user-attachments/assets/af508aed-6aac-40cf-b1ba-6b37724990f7)
+![image](https://github.com/user-attachments/assets/f842f832-4580-482d-89a3-974201426add)
+
+
 
 # Predicted Words Sample
+![image](https://github.com/user-attachments/assets/54625eec-0f13-4614-a916-14620fc97ac8)
 
-![image](https://github.com/user-attachments/assets/e992382d-1f37-441a-bbbf-149bb8ca5cd8)
+
 
 # Conclusion
+![image](https://github.com/user-attachments/assets/42bc24ee-e733-431a-852d-ab6544e2c15a)
 
-![image](https://github.com/user-attachments/assets/cdcb4b76-67ea-4bc4-9ecd-72e2e778550e)
 
 # Link to Source Code & Docker
+![image](https://github.com/user-attachments/assets/2bf1c7bf-a628-4d92-8f8a-f76328ab2040)
 
 
 # Future Enhancements
